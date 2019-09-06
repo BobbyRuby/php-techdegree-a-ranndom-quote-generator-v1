@@ -9,8 +9,9 @@
   <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/styles.css">
+    <!-- I understand this is not best practice and this should be in a .js file but for simplicity and quickness have inserted this script tag -->
     <script>
-        setTimeout(reload, 10000);
+        setTimeout(reload, 15000);
         function reload() {
             window.location.reload(true)
         }

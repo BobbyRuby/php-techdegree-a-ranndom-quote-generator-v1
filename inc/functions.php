@@ -77,5 +77,5 @@ function getRandomColor(){
           background-color: #". substr(uniqid(),-3).";
         }
         </style>";
-    // substr(uniqid(),-6) taken from https://stackoverflow.com/questions/5614530/generating-a-random-hex-color-code-with-php
+    // substr(uniqid(),-6) taken from https://stackoverflow.com/questions/5614530/generating-a-random-hex-color-code-with-php --- user profile link https://stackoverflow.com/users/943075/cyril
 }
